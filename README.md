@@ -1,7 +1,7 @@
-# command-help
+# command-cache
 
-Librarian's built-in help command.
+Librarian's built-in cache command.
 
 ```shell
-./librarian help
+./librarian cache
 ```
